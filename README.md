@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Devanshu 👋<br><br>First-year AIML student | Builder by curiosity.
+Hey,I'm Devanshu 👋<br><br>First-year AIML student | Builder by curiosity.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshu-raut-641828331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rautdevanshu24@gmail.com) 
 
