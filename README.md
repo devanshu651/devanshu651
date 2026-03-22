@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Devanshu 👋<br><br>First-year AIML student | Builder by curiosity<br><br>g —<br>I just find a problem (usually my own) and start coding.<br><br>🔭 <br>🧠 Built an AI-powered prompt testing lab & a campus attendance system using face recognition<br>🎵 Even made a music player — just for my own playlist, because why not<br>📍 1st year, 2nd sem | 8.0 pointer and climbing<br><br>Tech I use: Python · Streamlit · OpenCV · OpenRouter APIs · SQLite<br><br>Not chasing trends. 
+Hey, I'm Devanshu 👋<br><br>First-year AIML student | Builder by curiosity.<br><br>🔭 <br>🧠 Built an AI-powered prompt testing lab & a campus attendance system using face recognition<br>🎵 Even made a music player — just for my own playlist, because why not<br>📍 1st year, 2nd sem | 8.0 pointer and climbing<br><br>Tech I use: Python · Streamlit · OpenCV · OpenRouter APIs · SQLite
 
 
 ## 🌐 Socials:
