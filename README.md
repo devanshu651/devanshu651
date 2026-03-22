@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hey, I'm Devanshu 👋<br><br>First-year AIML student | Builder by curiosity.<br><br>🔭 <br>🧠 Built an AI-powered prompt testing lab & a campus attendance system using face recognition<br>🎵 Even made a music player — just for my own playlist, because why not<br>📍 1st year, 2nd sem | 8.0 pointer and climbing<br><br>Tech I use: Python · Streamlit · OpenCV · OpenRouter APIs · SQLite
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshu-raut-641828331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rautdevanshu24@gmail.com) 
 
